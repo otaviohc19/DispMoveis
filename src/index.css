@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  font-size: 120%;
+  margin: 0;
+}
+
+.menu {
+  background-color: #EEE;
+  padding: 1em;
+  text-align: center;
+  margin-bottom: 1em;
+}
+.menu a{
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+.menu a:hover {
+  text-decoration: underline;
+}
+
+.rodape {
+  background-color: #ceebf5;
+  padding: 1em;
+  text-align: center;
+  margin-top: 1em;
+}
